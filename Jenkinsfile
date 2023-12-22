@@ -6,6 +6,7 @@ pipeline {
         stage('Greetings') {
             steps {
                 helloWorld()
+                configMap(dayOfWeek:"Friday",name:"Manisha")
             }
         }
     }
