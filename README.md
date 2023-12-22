@@ -11,4 +11,4 @@ Configuration Steps In Jenkins
 
    NOTE:
    - Name of groovy file under vars folders should be in written camel case
-   - Put Jenkinsfile and other files in other repositories
+   - Put Jenkinsfile and other files in other repositories and create shared library repo individually
