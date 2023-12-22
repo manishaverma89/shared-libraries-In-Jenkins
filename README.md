@@ -9,4 +9,6 @@ Configuration Steps In Jenkins
  - click on save button
 
 
-   NOTE: Name of groovy file under vars folders should be in written camel case
+   NOTE:
+   - Name of groovy file under vars folders should be in written camel case
+   - Put Jenkinsfile and other files in other repositories
