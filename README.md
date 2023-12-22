@@ -7,4 +7,6 @@ Configuration Steps In Jenkins
  - provide branch name in which "var" folder exists
  - provide url of the project repository - In modern SCM under Retreival Method
  - click on save button
+
+
    NOTE: Name of groovy file under vars folders should be in written camel case
